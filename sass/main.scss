@@ -1,0 +1,17 @@
+$mainColor: red;
+$mainBg: blue;
+$greatHeadings: #ffc60b;
+
+body {
+    color: #fff;
+    background-color: black;
+}
+
+h1, h2, h3, h4{
+    color: $greatHeadings;
+}
+
+.do-transform {
+    transform: translate(50%, 50%);
+    user-select: none;
+}

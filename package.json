@@ -23,6 +23,6 @@
     "gulp-imagemin": "^6.1.0",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
-    "postcss": "^7.0.18"
+    "postcss": "^8.2.10"
   }
 }
